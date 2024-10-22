@@ -1,0 +1,15 @@
+# 1678. Goal Parser Interpretation
+# https://leetcode.com/problems/goal-parser-interpretation/
+
+# Define a class named Solution which inherits from the base class 'object'
+class Solution(object):
+    # Define a method named 'interpret' that takes 'self' and 'command' as parameters
+    def interpret(self, command):
+        """
+        :type command: str  # The 'command' parameter is expected to be a string
+        :rtype: str  # The method is expected to return a string
+        """
+        # Replace all occurrences of '()' in the 'command' string with 'o'
+        # Then replace all occurrences of '(al)' in the 'command' string with 'al'
+        # Finally, return the modified 'command' string
+        return command.replace('()','o').replace('(al)','al')
