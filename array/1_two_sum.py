@@ -2,7 +2,6 @@
 # https://leetcode.com/problems/two-sum/
 
 class Solution(object):
-    # The twoSum method takes two parameters: a list of numbers (nums) and a target number (target)
     # The method returns a list of two numbers that add up to the target
     def twoSum(self, nums, target):
         # Create an empty dictionary to store the numbers we've seen so far and their indices
