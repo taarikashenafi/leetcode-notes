@@ -31,16 +31,4 @@ The repository is organized as follows:
 3. **Refer to Resources**: Use the PDFs in the `resources/` directory as references for discrete mathematics, proofs, and algorithmic strategies. These materials offer theoretical depth and examples.
 4. **Review with LeetCode Notes**: Consult `leetcode-notes/` for additional solutions, tips, and explanations on specific problems, especially when revisiting complex concepts.
 
-## Resources
 
-This repository includes several important resources for comprehensive preparation:
-
-1. **Discrete Mathematics and Its Applications** by Kenneth H. Rosen - foundational topics in logic, proofs, combinatorics, and graph theory [oai_citation:3,Discrete-Mathematics-and-Its-Applications.pdf](file-service://file-ONtMqlQIHDv2Q7Qh9QII8hyB).
-2. **Mathematical Foundations of Computer Science** by Gallier and Quaintance - a focused guide on mathematical reasoning, algorithms, and combinatorics relevant to computer science [oai_citation:2,discmath-root-b.pdf](file-service://file-aipB5QYhtUo6f5g4jVVuTddk).
-3. **Lecture Notes on Discrete Mathematics** - detailed explanations and exercises in topics such as probability, induction, and relations [oai_citation:1,mth202.pdf](file-service://file-ijJOcXDCT2rYZcK4urpKViNp).
-
-## Acknowledgements
-
-Special thanks to NeetCode for curating a comprehensive problem list and to the authors of the discrete mathematics resources included here for foundational knowledge in mathematics and algorithms essential for software engineering.
-
-Happy coding, and best of luck with your technical interview preparation!
