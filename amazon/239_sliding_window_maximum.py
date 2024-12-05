@@ -10,7 +10,7 @@ class Solution:
         :type k: int
         :rtype: List[int]
         """
-        d = collections.deque()
+        d = deque()
         out = []
         for i, n in enumerate(nums):
             while d and nums[d[-1]] < n:
