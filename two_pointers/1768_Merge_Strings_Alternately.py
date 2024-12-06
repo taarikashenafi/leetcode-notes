@@ -40,3 +40,4 @@ solution = Solution()
 print(solution.mergeAlternately("abc", "pqr")) # Output: "apbqcr"
 print(solution.mergeAlternately("ab", "pqrs")) # Output: "apbqrs"
 print(solution.mergeAlternately("abcd", "pq")) # Output: "apbqcd"
+
